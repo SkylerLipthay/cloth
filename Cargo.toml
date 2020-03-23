@@ -1,0 +1,8 @@
+[package]
+name = "cloth"
+version = "0.1.0"
+authors = ["Skyler Lipthay <sl@skylerlipthay.com>"]
+edition = "2018"
+
+[dev-dependencies]
+image = "0.23"
